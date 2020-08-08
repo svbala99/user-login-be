@@ -1,0 +1,29 @@
+{
+  "development": {
+    "username": "Fd2RpMfLYG",
+    "password": "TnXIQcOGcS",
+    "database": "Fd2RpMfLYG",
+    "host": "remotemysql.com",
+    "dialect": "mysql",
+    "port": "3306",
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "Fd2RpMfLYG",
+    "password": "TnXIQcOGcS",
+    "database": "Fd2RpMfLYG",
+    "host": "remotemysql.com",
+    "dialect": "mysql",
+    "port": "3306",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "Fd2RpMfLYG",
+    "password": "TnXIQcOGcS",
+    "database": "Fd2RpMfLYG",
+    "host": "remotemysql.com",
+    "dialect": "mysql",
+    "port": "3306",
+    "operatorsAliases": false
+  }
+}
